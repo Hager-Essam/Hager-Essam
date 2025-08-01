@@ -21,7 +21,7 @@ Tailwind CSS
 #### 🦴 [BonesApp] https://https-graduationproject.vercel.app/
 I was responsible for developing the frontend of Boneify using Angular, that is an intelligent medical web application that connects patients with bone specialists and assists in early fracture detection using AI. It features a deep learning model based on Convolutional Neural Networks (CNN) to analyze X-ray images and detect bone fractures . Users can register as patients or specialists, and chat securely. Specialists verify their credentials through certificate uploads. The app uses JWT authentication for secure access, includes profile management, and provides educational resources. With real-time messaging and AI integration, BonesApp enhances orthopedic diagnosis and streamlines communication between patients and specialists.
 
-### [LearnNova] https://learnnova.tryasp.net/
+#### [LearnNova] https://learnnova.tryasp.net/
 A full-featured digital learning system designed to deliver and manage online courses, track student progress, and support instructors and admins through a scalable, role-based platform.
 
 
