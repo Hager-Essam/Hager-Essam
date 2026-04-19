@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Hager Essam
 
-## 💼 Full-Stack Developer | MERN Stack | React | Node.js | MongoDB
+## 💼 Full-Stack Developer | JavaScript Stack | Angular | React | Node.js
 
 🎓 Graduate of the Faculty of Computers & Information
-🌱 Currently diving deeper into **Advanced React, System Design, and Scalable Architectures**
-🔭 Currently building: **Task Management System & E-Commerce Apps using MERN Stack**
+🌱 Currently learning: **React.js, Advanced JavaScript, and Scalable Architectures**
+🔭 Currently working on: **Task Management System & E-Commerce Applications**
 
 ---
 
@@ -17,21 +17,22 @@
 
 ### 🎨 Frontend
 
+* Angular
 * React.js
-* Redux Toolkit
-* Tailwind CSS
 * HTML5
 * CSS3
+* Tailwind CSS
 
 ### ⚙️ Backend
 
 * Node.js
 * Express.js
+* ASP.NET Core
 
 ### 🗄️ Database
 
 * MongoDB
-* Mongoose
+* SQL Server
 
 ### 🛠️ Tools & Others
 
@@ -48,8 +49,7 @@
 
 🔗 https://https-graduationproject.vercel.app/
 
-Developed the frontend using **React.js**, transforming it into a modern, scalable UI.
-BonesApp is an intelligent medical platform that connects patients with bone specialists and assists in early fracture detection using AI.
+Developed the frontend using **Angular** for an intelligent medical platform that connects patients with bone specialists and assists in early fracture detection using AI.
 
 ✨ Key Features:
 
@@ -65,7 +65,7 @@ BonesApp is an intelligent medical platform that connects patients with bone spe
 
 🔗 https://learnnova.tryasp.net/
 
-A full-featured e-learning platform built with a scalable architecture.
+A full-featured e-learning platform designed to deliver and manage online courses with a scalable, role-based system.
 
 ✨ Key Features:
 
@@ -79,4 +79,4 @@ A full-featured e-learning platform built with a scalable architecture.
 <h2 style="color:blue; font-family:Arial;">📫 Connect With Me</h2>
 
 * 💼 LinkedIn: https://www.linkedin.com/in/hager-essam-7758652ab/
-* 📧 Email: [hageressam23720@gmail.com](mailto:hageressam23720@gmail.com)
+* 📧 Email: [hageressamha@gmail.com](mailto:hageressamha@gmail.com)
