@@ -124,7 +124,6 @@ risk detection, ambiguity flagging, and intelligent clause generation algorithms
 
 **Tech Stack:** React · Node.js · Express.js · MongoDB · AI / RAG
 
-*Replace this card with your actual LegalMind repository link once the repository name is confirmed.*
 
 ---
 
