@@ -103,7 +103,24 @@ A task management application inspired by collaborative Kanban workflows, with b
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hager-Essam&repo=Hager-Essam&theme=tokyonight&hide_border=true" alt="GitHub Profile Repository"/>
 </a>
 
-An AI-powered legal assistance project focused on Egyptian contracts, helping users understand contractual obligations, risks, and deadlines.
+Engineered an end-to-end B2B LegalTech platform using
+Next.js, Node.js,
+and
+TypeScript
+, automating document audit and contract review workflows for law firms.
+•
+Architected a semantic
+RAG
+(Retrieval-Augmented Generation) pipeline using Python,
+Vector Databases,
+and
+fine-tuned LLMs
+to retrieve Egyptian legal statutes and precedents with high precision.
+•
+Implemented
+automated
+risk detection, ambiguity flagging, and intelligent clause generation algorithms, reducing manual contract review time by
+80%.
 
 **Tech Stack:** React · Node.js · Express.js · MongoDB · AI / RAG
 
