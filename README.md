@@ -87,7 +87,7 @@
 
 ### 📋 Task Management System
 
-<a href="https://github.com/Hager-Essam/Task-Management-system-">
+<a href="https://github.com/Hager-Essam/Task_Management_system.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hager-Essam&repo=Task-Management-system-&theme=tokyonight&hide_border=true" alt="Task Management System Repository"/>
 </a>
 
@@ -99,7 +99,7 @@ A task management application inspired by collaborative Kanban workflows, with b
 
 ### ⚖️ LegalMind
 
-<a href="https://github.com/Hager-Essam">
+<a href="https://github.com/Hager-Essam/legal_mind_auth_part.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hager-Essam&repo=Hager-Essam&theme=tokyonight&hide_border=true" alt="GitHub Profile Repository"/>
 </a>
 
@@ -113,7 +113,7 @@ An AI-powered legal assistance project focused on Egyptian contracts, helping us
 
 ### 🦴 Boneify | AI-Powered Fracture Detection
 
-<a href="https://https-graduationproject.vercel.app/">
+<a href="https://github.com/Hager-Essam/GraduationProject.git">
   <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Boneify-70A5FD?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Boneify"/>
 </a>
 
@@ -149,7 +149,7 @@ A graduation project that helps patients and specialists analyze X-ray images fo
 </a>
 
 <!-- Replace YOUR_LINKEDIN_URL with your actual LinkedIn profile URL -->
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/hager-essam-he">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
