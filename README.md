@@ -85,8 +85,6 @@ I'm a Computer Science graduate and a Full-Stack Developer interested in designi
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hager-Essam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
-
 </div>
 
 ---
