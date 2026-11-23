@@ -152,7 +152,7 @@ A graduation project that helps patients and specialists analyze X-ray images fo
 
 <div align="center">
 
-<a href="mailto:">
+<a href="mailto:hageressam23720@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
