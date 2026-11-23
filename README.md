@@ -10,7 +10,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B33,50:4141A6,100:70A5FD&height=180&section=header&text=Hager%20Essam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Back-End%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="Animated Header"/>
 
 <!-- Custom Banner -->
-<img src="./assets/github-banner.png" width="100%" alt="Hager Essam Developer Banner"/>
+<!-- <img src="./assets/github-banner.png" width="100%" alt="Hager Essam Developer Banner"/> -->
 
 <br/>
 
